@@ -61,6 +61,7 @@ A short description of another project you're proud of.
 
 **Tech:** Next.js · TypeScript · PostgreSQL
 
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -68,6 +69,7 @@ A short description of another project you're proud of.
 !GitHub Stats
 
 !Top Languages
+-->
 
 ---
 
